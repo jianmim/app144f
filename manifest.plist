@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://ghproxy.com/https://raw.githubusercontent.com/jianmim/app144f/main/__UNI__250083C_1101090908.ipa</string>
+                    <string>https://ghproxy.com/https://raw.githubusercontent.com/jianmim/app144f/main/app.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://github.com/jianmim/app144f/blob/main/58x58.png</string>
+                    <string>https://github.com/jianmim/app144f/blob/main/min.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://github.com/jianmim/app144f/blob/main/1024x1024.png</string>
+                    <string>https://github.com/jianmim/app144f/blob/main/big.png</string>
                 </dict>
             </array>
             <key>metadata</key>
